@@ -2,7 +2,7 @@
 
 # **Objectif du projet**
 
-L’objectif est de modéliser une gamelle pour animaux en 3D. Cette gamelle doit également être automatique et se déclencher à certains intervalles de temps précis.
+L’objectif est de modéliser une gamelle en 3D pour animaux . Cette gamelle doit également être automatique et se déclencher à certains intervalles de temps précis.
 
 # I- **Modélisation 3D**
 
